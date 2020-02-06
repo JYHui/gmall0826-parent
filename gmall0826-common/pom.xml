@@ -11,6 +11,7 @@
 
     <artifactId>gmall0826-common</artifactId>
 
+    <!--注释-->
     <dependencies>
         <dependency>
             <groupId>com.alibaba</groupId>
